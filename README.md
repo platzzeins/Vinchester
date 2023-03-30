@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinchester&layout=compact)](https://github.com/Vinchester/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/Vinchester/badges/large)](https://www.codewars.com/users/Vinchester)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vinchester?theme=nord&font=Prompt)
 
  ![General badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whilte) ![General badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
